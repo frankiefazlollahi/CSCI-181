@@ -1,4 +1,4 @@
-# CSCI181
+# CSCI-181
 
 My SCU Applied Cryptography course assignments.
 
